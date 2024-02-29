@@ -21,17 +21,15 @@ Pandas
 Matplotlib
 You can install these dependencies using pip:
 
-Copy code
+
 pip install numpy pandas matplotlib 
 Usage
 Clone the repository:
 
-Copy code
-git clone https://github.com/sivanji-05/house-price-prediction.git
+git clone https://github.com/sivanji05/house-price-prediction.git
 Navigate to the project directory:
-bash
-Copy code
-cd house-price-prediction
+
+cd house_price
 Run the main script:
 
 Copy code
