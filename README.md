@@ -1,7 +1,7 @@
 House Price Prediction Using Linear Regression
 This project aims to predict house prices using a simple linear regression model. Linear regression is a basic yet powerful statistical technique used to model the relationship between a dependent variable (target) and one or more independent variables (features). In this project, we leverage linear regression to predict house prices based on various features such as the size of the house, number of bedrooms, location, etc.
 
-Dataset
+Dataset:
 The dataset used in this project contains information about various houses including features like:
 
 Size (in square feet)
